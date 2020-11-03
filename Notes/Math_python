@@ -1,0 +1,75 @@
+Math Operators
++ : addition
+- : subtraction
+* : multiplication
+/ : division 
+% : modulus (returns the remainder)
+** : exponent operator ex 3**2  3 raised to the power of 2.
+// : floor division. Divide and round down ( -11/3 = -4)
+
+
+Comparision Operators
+== : equals to 
+!= : not equal to  
+<> : not equal to 
+> : greater than 
+< : less than 
+>= : greater than or equal to 
+>= : less than or equal to 
+
+Assignment Operators 
+= : assign value on the right to the item on the left
++= : adds value on the right to the item on the left
+-= :  subtracts "
+*= : mulitplies "
+/= : divides " 
+**= : exponents "
+//: floor divide "
+
+Logical Operators 
+&&  : and : and...   the are just and, or, not in python
+||  :  or : or
+!   : not : not
+
+
+Identity Operations
+is : similar to equal to ( 3 is 3) like (3 = 3)
+
+my_string = 'hello' - will store this in memory
+
+'hello' is my_string ---True
+
+is and = is the same.
+is : true if operands are the same object ( 3 is 3)
+is not : true if operands are not the same object
+
+
+Membership Operators 
+in : checks if the operand on the left is in operand on the right (i.e 3 in [1,2,3])
+[1, 2, 3] in [ 1, 2, 3, 4, 5, 6]
+
+not in : checks if the operand on the left is not in operand on the right
+
+ 3 not in [1,2]  = true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
