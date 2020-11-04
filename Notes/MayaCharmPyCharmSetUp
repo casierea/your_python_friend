@@ -1,0 +1,31 @@
+
+1. download pycharm 2019.2- professional version
+2. new project> purepython
+3.Existing interprer MayaPy2.7
+4.Download Devkit. Unzip it. Drag into folder in repo
+5.Existing Interperter ... click on 3 dots
+6. Virtual Environmnet
+7. C: program files
+8. Autodesk
+9: Maya 2020
+10: Bin
+11. Mayapy.exe
+12. Check box "make available for all projects"
+13. create
+14. ok until out that scene
+15. Plugin>file settings>plugins
+16. Market place Tab>Mayacharm>install
+17. Settings>Projects>project interpreter
+18. Mayapy, settings wheel thing
+19. Show All
+20: click on weird 3 teir thing
+21: sitepackges- click on minus sign
+22. click on + sign, add (project)>MayaDevKit>Py>OK
+23. OK until out that scene
+24. File > invalidate cache and restart
+25. Settings >  MayaCharm (double click)
+26. copy and paste the code
+27. create userSetup.py
+28. Copy userSetup.py and put in Doc> Maya > scripts
+29. Restart maya
+30. Run>connect Maya log
