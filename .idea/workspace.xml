@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Time/ifstatements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/ifstatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/ifstatements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_gen.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MayaDevKit_2020 (1)/MayaDevKit_2020/py" />
-    <property name="settings.editor.selected.configurable" value="ca.rightsomegoodgames.mayacharm.settings.MayaSdkConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,6 +64,8 @@
       <workItem from="1604373554816" duration="183000" />
       <workItem from="1604373748694" duration="360000" />
       <workItem from="1604374964475" duration="1960000" />
+      <workItem from="1604510037942" duration="5867000" />
+      <workItem from="1604518349888" duration="3166000" />
     </task>
     <servers />
   </component>
@@ -73,10 +77,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/your_python_friend" />
+    </ignored-roots>
   </component>
 </project>
