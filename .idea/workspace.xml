@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/ifstatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/ifstatements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_gen.py" afterDir="false" />
-    </list>
+    <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +29,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MayaDevKit_2020 (1)/MayaDevKit_2020/py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/random_assignment.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -65,7 +59,7 @@
       <workItem from="1604373748694" duration="360000" />
       <workItem from="1604374964475" duration="1960000" />
       <workItem from="1604510037942" duration="5867000" />
-      <workItem from="1604518349888" duration="3166000" />
+      <workItem from="1604518349888" duration="3326000" />
     </task>
     <servers />
   </component>
