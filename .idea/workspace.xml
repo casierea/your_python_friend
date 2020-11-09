@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Python_Time/random_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/random_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/p1.mb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/random_assignment.py" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="ca.rightsomegoodgames.mayacharm.settings.MayaSdkConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +63,8 @@
       <workItem from="1604374964475" duration="1960000" />
       <workItem from="1604510037942" duration="5867000" />
       <workItem from="1604518349888" duration="3326000" />
-      <workItem from="1604526357279" duration="135000" />
+      <workItem from="1604526357279" duration="2084000" />
+      <workItem from="1604948010614" duration="4341000" />
     </task>
     <servers />
   </component>
