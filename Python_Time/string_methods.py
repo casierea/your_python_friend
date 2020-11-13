@@ -27,3 +27,14 @@ txt = str(1) #cast number into string value and assign it
 #x = txt.zfill(num_of_hash)
 x = str(1).zfill(num_of_hash)
 print(x)
+
+
+
+#Class nov 12
+
+my_string = 'L_Leg_######_Jnt'
+
+num_of_chars =  my_string.count('#')
+string_parts = my_string.partition('#' * num_of_chars) #["L_Leg_######', _'Jnt']
+                                                       #['L_Leg_#####_Jnt','','']
+                                                       
