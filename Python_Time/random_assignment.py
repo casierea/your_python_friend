@@ -1,5 +1,6 @@
 
 import maya.cmds as cmds
+import random
 
 def duplicate_obj(objects=[], num_copies=1, minX=0, maxX=10, minY=0, maxY=10, minZ=0, maxZ=10, debug=True):
 

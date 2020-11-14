@@ -12,17 +12,15 @@ def rename_stuffles(name_base="Leg_###_Jnt", index_start=0):
     renamed_objs = []
 
     #get objects in selection
-    sel_objs = cmds.ls(selection=True)#["billy", "turkey", "stuffin"]
-    print(type(sel_objs))
-    print(len(sel_objs))
+    sel_objs = ["billy", "turkey", "stuffin"]
     print("selection objects:", sel_objs)
     #get count of # characters
     pounds = name_base.count("#")
     print("pounds: ", pounds)
 
-    for i in range(0,len(sel_objs)):
-        print(i, "*" * 50)
-        print("base name string:", name_base)
+    for i in range(len(sel_objs)):
+         print("*" * 50)
+         print("base name string:", name_base)
         #split name base string on _ because it is a known pattern
         name_base_parts = name_base.split("_")
         print(name_base_parts)
@@ -37,13 +35,10 @@ def rename_stuffles(name_base="Leg_###_Jnt", index_start=0):
         #rejoin the string parts into the desired name
         new_name = "_".join(name_base_parts)
         print("new string name:", new_name)
-        cmds.rename(sel_objs[i], new_name)
         #rename each object using the new name string
         #call rename function on sel_objs[i] here
         #add new obj name to renamed_objs list
         renamed_objs.append(new_name)
         print()
         print()
-    return renamed_objs
-rename_stuffles(index_start=1)
-#rename_stuffles(name_base="boop_#######_bop")
+        return renamed_objs
