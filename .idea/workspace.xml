@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/random_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/random_assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/rename_objs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/rename_objs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/p2_rand_gen_class.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/p2_rand_gen_class.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/ui_classtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/ui_classtime.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +68,7 @@
       <workItem from="1605148192817" duration="7278000" />
       <workItem from="1605383206648" duration="5564000" />
       <workItem from="1605395245496" duration="1798000" />
+      <workItem from="1605736393477" duration="3456000" />
     </task>
     <servers />
   </component>
