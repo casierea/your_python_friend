@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Time/testClass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/UIPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UIPractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/ui_wip01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/ui_wip01.py" afterDir="false" />
     </list>
@@ -71,7 +73,9 @@
       <workItem from="1605395245496" duration="1798000" />
       <workItem from="1605736393477" duration="3492000" />
       <workItem from="1605811908410" duration="9494000" />
-      <workItem from="1606169151882" duration="4359000" />
+      <workItem from="1606169151882" duration="4408000" />
+      <workItem from="1606175620739" duration="5765000" />
+      <workItem from="1606257236185" duration="1658000" />
     </task>
     <servers />
   </component>
