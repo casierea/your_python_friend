@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Time/testClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Time/NBuildWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Time/NRandomBuildWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Time/NewRenamer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/UIPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UIPractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/ui_wip01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/ui_wip01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +36,8 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/random_assignment.py" />
-    <property name="settings.editor.selected.configurable" value="ca.rightsomegoodgames.mayacharm.settings.MayaSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/rename_objs.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,7 +76,11 @@
       <workItem from="1605811908410" duration="9494000" />
       <workItem from="1606169151882" duration="4408000" />
       <workItem from="1606175620739" duration="5765000" />
-      <workItem from="1606257236185" duration="1658000" />
+      <workItem from="1606257236185" duration="2349000" />
+      <workItem from="1607021129125" duration="2362000" />
+      <workItem from="1607217025681" duration="818000" />
+      <workItem from="1607217873791" duration="566000" />
+      <workItem from="1607218456988" duration="2334000" />
     </task>
     <servers />
   </component>
