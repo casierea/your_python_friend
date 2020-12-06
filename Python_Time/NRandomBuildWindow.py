@@ -88,7 +88,7 @@ class RandomPlacement():#WINDOWASSIGNMENT
             cmds.error('characters are not in order. try again.')
         input_selection += 1
 
-my_window = RenamerUI() #remove from script when done
+my_window = RandomPlacement() #remove from script when done
 my_window.create()
 
 

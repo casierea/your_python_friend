@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Time/NBuildWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Time/NRandomBuildWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Time/NewRenamer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UIPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UIPractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/NRandomBuildWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/NRandomBuildWindow.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +75,7 @@
       <workItem from="1607021129125" duration="2362000" />
       <workItem from="1607217025681" duration="818000" />
       <workItem from="1607217873791" duration="566000" />
-      <workItem from="1607218456988" duration="2334000" />
+      <workItem from="1607218456988" duration="2440000" />
     </task>
     <servers />
   </component>
