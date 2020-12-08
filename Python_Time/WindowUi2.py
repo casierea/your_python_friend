@@ -21,13 +21,7 @@ class RenamerUI():#class=capital letter camelcase
         cmds.button(parent=self.col_layout, label='Taurus', c=self.createTorus)
         cmds.button(parent=self.col_layout, label='Cube', c=self.createCube)
         cmds.button(parent=self.col_layout, label='Print field',
-                    cmds.button(parent=self.col_layout, label='Hi', c='print "hello"')  # c=command)
-        cmds.button(parent=self.col_layout, label='Sphere', c=self.createSphere)
-        # cmds.button(parent=self.col_layout, label='Sphere', c=self.SayHello)
-        cmds.button(parent=self.col_layout, label='Taurus', c=self.createTorus)
-        cmds.button(parent=self.col_layout, label='Cube', c=self.createCube)
-        cmds.button(parent=self.col_layout, label='Print field',
-
+                    c='print cmds.textField(name_field, q=True, text=True)') #print statement in output
         cmds.showWindow(self.my_window)
 
     def delete(self):
@@ -50,9 +44,9 @@ class RenamerUI():#class=capital letter camelcase
 
         cmds.showWindow(self.my_window)
 
+    def SayHello():
+        print"Hello"
+        return 3
 
 my_window = RenamerUI() #remove from script when done
 my_window.create()
-
-
-

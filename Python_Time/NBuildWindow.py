@@ -22,7 +22,7 @@ class RenamerUI():#WINDOWASSIGNMENT
             cmds.deleteUI(self.my_window)
 
 def Renamer(self):
-    sels = cmds.ls(selection = True)
+    sels = cmds.ls(selection = True)boop
 
     input_selection = 1
     TextNameString = cmds.textField(self.name_field, q=True, text=True)

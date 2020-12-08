@@ -20,3 +20,5 @@ class RenamerUI():
     cmds.button(parent=self.col_layout, label='Print field',
                 c='print cmds.textField(name_field, q=True, text=True)')
     cmds.ShowWindow(self.my_window)
+
+def delete()
