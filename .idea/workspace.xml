@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Time/RenamerUI_Window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/WindowUi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/WindowUi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/Cl_rand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/WindowUi2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/derpname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/ifstatements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/not_fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/nov19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/snowman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/string_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/studentInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/testClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/ui_classtime.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +45,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/rename_objs.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/WindowUi2.py" />
     <property name="settings.editor.selected.configurable" value="ca.rightsomegoodgames.mayacharm.settings.MayaSdkConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -79,7 +92,8 @@
       <workItem from="1607218456988" duration="3417000" />
       <workItem from="1607281226260" duration="931000" />
       <workItem from="1607372803354" duration="146000" />
-      <workItem from="1607458620637" duration="4664000" />
+      <workItem from="1607458620637" duration="13952000" />
+      <workItem from="1607482698979" duration="1130000" />
     </task>
     <servers />
   </component>
