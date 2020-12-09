@@ -32,14 +32,19 @@ class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
 
 
     def renameInOrder(self, index_start=0):
-        name_base = self.name_field
+
+        #minX = cmds.intField(self.X_Min_field, q=True, value=True)
+        name_base = cmds.textField(self.name_field, q=True)
+
         # error message for bad string format
         print (name_base)
-        print(dir(self.name_field))
-        #if name_base.count("#") < 1:
-            #print("""invalid name base string entered.
-                #\n Please enter name_base with format: part_###_node""")
-            #return
+        if name_base is None or len(name_base) < 1:
+            name_base = "arm_###_jnt"
+        #print(dir(self.name_field))
+        if name_base.count("#") < 1:
+            print("""invalid name base string entered.
+                \n Please enter name_base with format: part_###_node""")
+            return
 
         print("\n\n")
         # create list to hold renamed objs
@@ -79,8 +84,6 @@ class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
             print()
             print()
         return renamed_objs
-
-    rename_stuffles(index_start=1)
 
 
 my_window = RenamerUI() #remove from script when done
