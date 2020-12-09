@@ -1,5 +1,5 @@
 import maya.cmds as cmds
-class RenamerUI():#class=capital letter camelcase
+class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
     def __init__(self):
         self.my_window = 'crWindowTool'
 

@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Time/Rand_Gen_PY_Works.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Time/Ui_Window_Renamer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/NBuildWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/NBuildWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/NewRenamer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UIPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UIPractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/WindowUi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/WindowUi2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +79,7 @@
       <workItem from="1607218456988" duration="3417000" />
       <workItem from="1607281226260" duration="931000" />
       <workItem from="1607372803354" duration="146000" />
-      <workItem from="1607458620637" duration="3800000" />
+      <workItem from="1607458620637" duration="4664000" />
     </task>
     <servers />
   </component>
