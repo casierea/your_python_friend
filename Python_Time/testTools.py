@@ -1,10 +1,13 @@
+import maya.cmds as cmds
 
-from cr_tools import Rename_Window_UI
-from cr_tools import RandomGen_Window_UI
-#from CasieMayaTools import *
+import RandomGen_Window_UI #is script name
+help(RandomGen_Window_UI)
 
-my_window = Rename_Window_UI.RenamerUI() #remove from script when done
-my_window.create()
+import toolsclass
+help(toolsclass)
 
-my_window = RandomGen_Window_UI.RandomUI()  # remove from script when done
-my_window.create()
+import cr_tools #is package containing scripts
+help (cr_tools)
+
+import cr_tools.toolsclass as classtool
+help(classtool)
