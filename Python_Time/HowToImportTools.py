@@ -7,7 +7,7 @@ help(toolsclass)
 import cr_tools #is package containing scripts
 help (cr_tools)
 
-import cr_tools.toolsclass as boopsnoot #cr_tools=folder. toolsclass=script boopsnoot=my name for it
+import cr_tools.tools_from_class as boopsnoot #cr_tools=folder. toolsclass=script boopsnoot=my name for it
 help(boopsnoot)
 
 boopsnoot.create_snowman

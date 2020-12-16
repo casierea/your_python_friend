@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/HowToImportTools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/HowToImportTools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/cr_tools.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/toolsclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/tools_from_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/testTools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/testTools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/testTools.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,10 @@
       <workItem from="1607567727967" duration="2725000" />
       <workItem from="1607572129047" duration="2296000" />
       <workItem from="1607638366496" duration="210000" />
-      <workItem from="1607911019128" duration="6047000" />
+      <workItem from="1607911019128" duration="6463000" />
+      <workItem from="1608067408420" duration="645000" />
+      <workItem from="1608069661543" duration="779000" />
+      <workItem from="1608091877574" duration="6064000" />
     </task>
     <servers />
   </component>
