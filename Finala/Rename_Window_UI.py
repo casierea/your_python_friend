@@ -6,8 +6,8 @@ class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
     def create(self):
         self.delete()
         self.my_window = cmds.window(self.my_window,
-                                     title='Renamer Window Tool',
-                                     widthHeight=(200,200)) #creates window. Grandaddy. Main parent
+                                title='Renamer Window Tool',
+                                widthHeight=(200,200)) #creates window. Grandaddy. Main parent
 
         self.col_layout = cmds.columnLayout(parent=self.my_window,
                                             adjustableColumn=True)
@@ -16,13 +16,10 @@ class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
         #name_field is the name of control. Not value contained in that field.
 
         cmds.button(parent=self.col_layout, label='Renamer', c=self.renameInOrder) #c=command)
+
         cmds.button(parent=self.col_layout, label='Cube', c=self.createCube)
+
         cmds.showWindow(self.my_window)
-
-
-
-
-
 
     def delete(self):
         if cmds.window(self.my_window, exists=True):
