@@ -8,8 +8,8 @@ class RandomUI():# SCRIPT TO WORK ON
     def create(self):
         self.delete()
         self.my_window = cmds.window(self.my_window,
-                                title='Random Generate Window',
-                                widthHeight=(400,800)) #creates window. Grandaddy. Main parent
+                                     title='Random Generate Window',
+                                     widthHeight=(400,800)) #creates window. Grandaddy. Main parent
 
         self.col_layout = cmds.columnLayout(parent=self.my_window,
                                             adjustableColumn=True)

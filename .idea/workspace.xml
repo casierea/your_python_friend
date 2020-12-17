@@ -2,37 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Time/cr_tools/parent_group.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/Cl_rand.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/derpname.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/ifstatements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/not_fun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/nov19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/snowman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/string_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/studentInfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/testClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Old/ui_classtime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Rand_Gen_PY_Works.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/RandomGenUi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Renamer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/RenamerUI_Window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/SAFEWINDOWUIScript.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UIAssignment.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UIPractice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UiWindow/Rename_Window_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UiWindow/Rename_Window_UI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Ui_Window_Renamer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Window_UI_Redo_dec8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/Window_Works_Ui_dec8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/HowToImportTools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/NBuildWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/NRandomBuildWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/Python_Time.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/UiWindow/RandomGen_Window_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UiWindow/RandomGen_Window_UI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/cr_tool_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/cr_tool_box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/random_assignment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/random_gen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/rename_objs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/ui_wip01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/window_rename_1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/freeze_trans_delete_hist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/freeze_trans_delete_hist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +95,7 @@
       <workItem from="1608067408420" duration="645000" />
       <workItem from="1608069661543" duration="779000" />
       <workItem from="1608091877574" duration="11473000" />
-      <workItem from="1608154184315" duration="4704000" />
+      <workItem from="1608154184315" duration="14551000" />
     </task>
     <servers />
   </component>
