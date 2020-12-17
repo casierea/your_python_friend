@@ -20,10 +20,6 @@ class RenamerUI():#class=capital letter camelcase# SCRIPT TO WORK ON
         cmds.showWindow(self.my_window)
 
 
-
-
-
-
     def delete(self):
         if cmds.window(self.my_window, exists=True):
             cmds.deleteUI(self.my_window)
