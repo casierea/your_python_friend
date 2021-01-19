@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Time/cr_tools/constrain_tool.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/UiWindow/Rename_Window_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/UiWindow/Rename_Window_UI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/cr_tool_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/cr_tool_box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/cr_tools/tools_from_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/cr_tools/tools_from_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Time/scenes/UIAssignment.mb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HowToImportTools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBuildWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NRandomBuildWindow.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +33,10 @@
   <component name="ProjectId" id="1jlL0X22yQ6rQAAs3A65F5QKO2J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Time/WindowUi2.py" />
-    <property name="settings.editor.selected.configurable" value="ca.rightsomegoodgames.mayacharm.settings.MayaSdkConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +91,11 @@
       <workItem from="1608067408420" duration="645000" />
       <workItem from="1608069661543" duration="779000" />
       <workItem from="1608091877574" duration="11473000" />
-      <workItem from="1608154184315" duration="16232000" />
+      <workItem from="1608154184315" duration="16843000" />
+      <workItem from="1610477376627" duration="1668000" />
+      <workItem from="1610479268793" duration="275000" />
+      <workItem from="1610576510399" duration="2586000" />
+      <workItem from="1611004280022" duration="5184000" />
     </task>
     <servers />
   </component>
