@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HowToImportTools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBuildWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NRandomBuildWindow.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1610477376627" duration="1668000" />
       <workItem from="1610479268793" duration="275000" />
       <workItem from="1610576510399" duration="2586000" />
-      <workItem from="1611004280022" duration="5184000" />
+      <workItem from="1611004280022" duration="5782000" />
     </task>
     <servers />
   </component>
