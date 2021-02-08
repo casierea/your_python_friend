@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a222948-a169-42d7-baf7-62962387c9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Adv_Rig/shape_tool.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adv_Rig/AdvRigProject/scenes/AdvRigTako_09-Cntrls.mb" beforeDir="false" afterPath="$PROJECT_DIR$/Adv_Rig/AdvRigProject/scenes/AdvRigTako_09-Cntrls.mb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +95,7 @@
       <workItem from="1610479268793" duration="275000" />
       <workItem from="1610576510399" duration="2586000" />
       <workItem from="1611004280022" duration="5782000" />
+      <workItem from="1612211068363" duration="1239000" />
     </task>
     <servers />
   </component>
